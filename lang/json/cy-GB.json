@@ -1,0 +1,10 @@
+{
+   "addRubric" : "Add Rubric",
+   "addSelected" : "Add Selected",
+   "cancel" : "Cancel",
+   "errorAddingAssociations" : "Error adding associations.",
+   "errorFetchingList" : "Error fetching rubrics list.",
+   "preview" : "Preview",
+   "search" : "Search",
+   "selectFromList" : "Select from the list of existing rubrics"
+}
