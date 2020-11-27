@@ -1,0 +1,10 @@
+{
+   "addRubric" : "Ychwanegu Cyfeireb",
+   "addSelected" : "Ychwanegu’r Rhai a Ddewiswyd",
+   "cancel" : "Canslo",
+   "errorAddingAssociations" : "Gwall wrth ychwanegu cysylltiadau.",
+   "errorFetchingList" : "Gwall wrth nôl rhestr cyfeirebau.",
+   "preview" : "Rhagolwg",
+   "search" : "Chwilio",
+   "selectFromList" : "Dewis o’r rhestr o gyfeirebau sydd eisoes yn bodoli"
+}

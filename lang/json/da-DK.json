@@ -1,0 +1,10 @@
+{
+   "addRubric" : "Tilføj rubrik",
+   "addSelected" : "Tilføj valgte",
+   "cancel" : "Annuller",
+   "errorAddingAssociations" : "Fejl under tilføjelse af tilknytninger.",
+   "errorFetchingList" : "Fejl under hentning af rubrikliste.",
+   "preview" : "Forhåndsvisning",
+   "search" : "Søg",
+   "selectFromList" : "Vælg fra listen over eksisterende rubrikker"
+}
